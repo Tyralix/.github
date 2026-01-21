@@ -70,7 +70,7 @@ Refer to each project’s `LICENSE` file for details.
 
 ## 🌐 Links
 
-- 🌍 Website: https://tyralix.com *(update when live)*  
+- 🌍 Website: https://tyralix.com
 - 🧩 Built for WooCommerce  
 - 🛠 Powered by WordPress  
 
